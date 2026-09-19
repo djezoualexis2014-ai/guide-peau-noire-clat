@@ -1,0 +1,8 @@
+{
+  "name": "Peau Noire Éclat",
+  "description": "Une page de présentation persuasive pour le produit digital Peau Noire Éclat, ciblant les femmes noires pour l'entretien de leur peau.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
